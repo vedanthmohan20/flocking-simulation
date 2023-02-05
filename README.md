@@ -1,4 +1,4 @@
-# flocking-simulation
+# Boids
 A computer model of coordinated animal motion such as bird flocks and fish schools based on two dimensional computational geometry in vanilla JavaScript.
 
 You can read more here:
